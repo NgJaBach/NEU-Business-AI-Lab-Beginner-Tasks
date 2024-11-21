@@ -12,7 +12,7 @@ from collections import Counter
 df = pd.read_csv('/content/Social_Network_Ads.csv')
 
 # Exploratory Data Analysis (EDA)
-pd.set_option('display.max_columns', None);
+pd.set_option('display.max_columns', None)
 print(df.head(), '\n')
 
 # Percentage of missing values
