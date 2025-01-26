@@ -12,5 +12,5 @@ You can find the detailed comparisons in the following link:
 ---
 
 ## 📖 Explanation
-For an explanation (in Vietnamese), please refer to this document:  
+For an explanation (in Vietnamese), please refer to this document: (incomplete)
 [Overleaf Document](https://www.overleaf.com/read/jfnbdctqshpt#5e49c0)
